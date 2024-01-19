@@ -1,4 +1,5 @@
 **SafeDrive-Alert-System**
+
 DATA STRUCTURE USED : Singly Linked list
 Struct Definitions:
 
